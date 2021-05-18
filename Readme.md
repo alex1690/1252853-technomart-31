@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Александр Нелехов](https://up.htmlacademy.ru/htmlcss/31/user/1252853).
-* Наставник: `Евгений Котов`.
+* Наставник: `Евгений Котов` (https://htmlacademy.ru/profile/eugene_kotov).
 
 ---
 
